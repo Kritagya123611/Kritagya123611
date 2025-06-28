@@ -79,7 +79,7 @@
 ---
 
 ## 📫 Let’s connect!
-- 📩 [kritagyajha@email.com](mailto:jhakritagya45@email.com)
-- 🧠 Twitter: [@kritagya_codes]([https://twitter.com/kritagya_codes](https://x.com/kritagyajha1))
+- 📩 [jhakritagya45@gmail.com](mailto:jhakritagya45@email.com)
+- 🧠 Twitter: [[@kritagya_codes](https://x.com/kritagyajha1)]([https://twitter.com/kritagya_codes](https://x.com/kritagyajha1))
 - 🌐 Website/Portfolio: coming soon...
 
