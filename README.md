@@ -1,15 +1,15 @@
 # Hey there, I'm Kritagya 👋
 
-🎯 Full Stack & Web3 Developer | Smart Contract Engineer  
-💡 Building [CreatorVault](https://github.com/Kritagya123611/CreatorVault) — a Web3 SaaS platform for creators  
-🔭 Exploring the power of blockchain, ZK, Solana, and smart contract automations  
-🌱 Currently diving deep into Rust, Kafka, and decentralized infrastructure
+ Full Stack & Web3 Developer | Smart Contract Engineer  
+ Building [CreatorVault](https://github.com/Kritagya123611/CreatorVault) — a Web3 SaaS platform for creators  
+ Exploring the power of blockchain, ZK, Solana, and smart contract automations  
+ Currently diving deep into Rust, Kafka, and decentralized infrastructure
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
-### 🧪 Languages & Markup
+###  Languages & Markup
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -21,7 +21,7 @@
 
 ---
 
-### 🎨 Frontend
+###  Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -29,7 +29,7 @@
 
 ---
 
-### ⚙️ Backend & Dev
+###  Backend & Dev
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-F1C40F?style=for-the-badge&logo=ethereum&logoColor=black)
@@ -39,7 +39,7 @@
 
 ---
 
-### 🌐 Blockchain / Web3
+###  Blockchain / Web3
 ![Solana](https://img.shields.io/badge/Solana-3a0ca3?style=for-the-badge&logo=solana&logoColor=white)
 ![Thirdweb](https://img.shields.io/badge/Thirdweb-000000?style=for-the-badge&logo=thirdweb&logoColor=white)
 ![RainbowKit](https://img.shields.io/badge/RainbowKit-3A0CA3?style=for-the-badge&logo=rainbow&logoColor=white)
@@ -50,7 +50,7 @@
 
 ---
 
-### ☁️ Database & Cloud
+###  Database & Cloud
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
@@ -61,7 +61,7 @@
 
 ---
 
-### 🧰 Tools & IDEs
+###  Tools & IDEs
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -70,7 +70,7 @@
 
 ---
 
-## 📊 GitHub Stats (Optional)
+##  GitHub Stats (Optional)
 <!-- You can remove this section if you don’t want stats -->
 
 ![Kritagya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kritagya123611&show_icons=true&theme=github_dark)
