@@ -9,7 +9,7 @@ Currently diving deep into Rust, Kafka, and decentralized infrastructure
 
 ## 🚀 Featured Projects  
 
-- [**CreatorVault**](https://github.com/Kritagya123611/CreatorVault)  
+- [**CreatorVault**]([https://github.com/Kritagya123611/CreatorVault](https://github.com/Kritagya123611/Creator-Vault))  
   SaaS platform for creators with **Web3 payments, IPFS storage & Solana integration**  
   ![Code](https://img.shields.io/badge/-Code-black?logo=github)
 
@@ -18,7 +18,7 @@ Currently diving deep into Rust, Kafka, and decentralized infrastructure
   Achieves **95.28% R² accuracy**, zero demographic bias, privacy-first compliance, and real-time inference.  
   Includes an interactive **Streamlit prototype** for financial inclusion.  
 
-- [**QRUPI Protocol**](https://github.com/Kritagya123611/QRUPI-protocol)  
+- [**QRUPI Protocol**]([https://github.com/Kritagya123611/QRUPI-protocol](https://github.com/Kritagya123611/QRUPI-protocol))  
   A **post-quantum secure digital currency framework** using **lattice cryptography, FHE, and ZKPs**  
   for **private and future-proof transactions**.  
 
