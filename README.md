@@ -9,23 +9,17 @@ Currently diving deep into Rust, Kafka, and decentralized infrastructure
 
 ## 🚀 Featured Projects  
 
-- [**CreatorVault**]([https://github.com/Kritagya123611/CreatorVault](https://github.com/Kritagya123611/Creator-Vault))  
+- [**SwiftSearch**](https://github.com/Kritagya123611/SwiftSearch)
+  High-performance CLI file search engine using Go’s goroutines, worker pools, and encrypted caching for ultra-fast indexing
+
+- [**CreatorVault**](https://github.com/Kritagya123611/Creator-Vault)
   SaaS platform for creators with **Web3 payments, IPFS storage & Solana integration**  
-  ![Code](https://img.shields.io/badge/-Code-black?logo=github)
 
-- [**CreditSim**](https://github.com/Kritagya123611/credit_sim)  
-  Production-ready **behavioral credit risk assessment** using **Graph Neural Networks**.  
-  Achieves **95.28% R² accuracy**, zero demographic bias, privacy-first compliance, and real-time inference.  
-  Includes an interactive **Streamlit prototype** for financial inclusion.  
+- [**CreditSim**](https://github.com/Kritagya123611/credit_sim)  Production-ready **behavioral credit risk assessment** using **Graph Neural Networks**.  
 
-- [**QRUPI Protocol**]([https://github.com/Kritagya123611/QRUPI-protocol](https://github.com/Kritagya123611/QRUPI-protocol))  
+- [**QRUPI Protocol**](https://github.com/Kritagya123611/QRUPI-protocol)
   A **post-quantum secure digital currency framework** using **lattice cryptography, FHE, and ZKPs**  
   for **private and future-proof transactions**.  
-
-- [**Dead-Drop ZK App**](https://github.com/Kritagya123611/Dead-Drop-ZK-App)  
-  Zero-knowledge proof system to **verify encrypted messages without revealing them**.  
-  Built with **Circom, Groth16, and Poseidon hash**.  
-  Ideal for **anonymous message reveals** and **commitment-based proofs**.  
 
 ---
 
