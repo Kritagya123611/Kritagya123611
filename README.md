@@ -1,6 +1,6 @@
 # Hey there, I'm Kritagya 👋
 
-**Full Stack Engineer**
+**Backend & Distributed Systems Engineer**
 
 Building the intersection of **Web3 authetication** and **distributed control planes**. I build high-performance software that solves complex infrastructure problems.
 
@@ -8,7 +8,7 @@ Building the intersection of **Web3 authetication** and **distributed control pl
 - **Stack:** Rust, Go, Solana, Kafka, TypeScript.
 - **Mission:** Scaling decentralized primitives and autonomous systems.
 
-## 🚀 Engineering Highlights
+##  Engineering Highlights
 
 ### 1. [Adaptive Control Plane](https://github.com/Kritagya123611/Adaptive-Control-Plane)
 > **Distributed Control Plane & Job Execution Engine**
@@ -108,19 +108,11 @@ A decentralized alternative to Patreon/Gumroad.
 ---
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kritagya123611&theme=onedark&no-frame=true&margin-w=15" alt="Kritagya's Trophies" />
-  </a>
-</div>
-
-<div align="center">
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kritagya123611&theme=tokyonight" alt="Profile Details" />
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kritagya123611&theme=tokyonight" alt="Language Stats" />
 </div>
-
-[![Kritagya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kritagya123611&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫 Let’s Connect!  
@@ -128,11 +120,12 @@ A decentralized alternative to Patreon/Gumroad.
 - 📩 Email: [jhakritagya45@gmail.com](mailto:jhakritagya45@gmail.com)  
 - 🧠 Twitter: [@kritagyajha1](https://x.com/kritagyajha1)  
 - 💼 LinkedIn: [linkedin.com/in/kritagya-jha-260945319](https://www.linkedin.com/in/kritagya-jha-260945319/)  
-- 🌐 Portfolio: *coming soon...*  
+- 🌐 Portfolio: https://terminal-portfolio-eta-inky.vercel.app
 - 🤝 Open for collaborations on **Web3, Rust, and distributed systems**  
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kritagya123611&color=blueviolet&style=flat)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Developer;Web3+Engineer;Rust+%7C+Solidity+%7C+Kafka;Building+decentralized+infra)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Control+Planes+%E2%89%A0+Workers;State+Before+Execution;Design+for+Failure;Distributed+Systems+Engineer)](https://git.io/typing-svg)
+
 
