@@ -1,25 +1,44 @@
 # Hey there, I'm Kritagya 👋
 
-**Full Stack & Web3 Developer | Smart Contract Engineer**  
-Building [CreatorVault](https://github.com/Kritagya123611/CreatorVault) — a Web3 SaaS platform for creators  
-Exploring the power of blockchain, ZK, Solana, and smart contract automations  
-Currently diving deep into Rust, Kafka, and decentralized infrastructure  
+**Full Stack Engineer**
 
----
+Building the intersection of **Web3 authetication** and **distributed control planes**. I build high-performance software that solves complex infrastructure problems.
 
-## 🚀 Featured Projects  
+- **Current Focus:** Engineering autonomous DevOps agents and post-quantum secure protocols.
+- **Stack:** Rust, Go, Solana, Kafka, TypeScript.
+- **Mission:** Scaling decentralized primitives and autonomous systems.
 
-- [**SwiftSearch**](https://github.com/Kritagya123611/SwiftSearch)
-  High-performance CLI file search engine using Go’s goroutines, worker pools, and encrypted caching for ultra-fast indexing
+## 🚀 Engineering Highlights
 
-- [**CreatorVault**](https://github.com/Kritagya123611/Creator-Vault)
-  SaaS platform for creators with **Web3 payments, IPFS storage & Solana integration**  
+### 1. [Adaptive Control Plane](https://github.com/Kritagya123611/Adaptive-Control-Plane)
+> **Distributed Control Plane & Job Execution Engine**
 
-- [**CreditSim**](https://github.com/Kritagya123611/credit_sim)  Production-ready **behavioral credit risk assessment** using **Graph Neural Networks**.  
+A resilient distributed system engineered to separate intent (API) from execution (Workers). It features a custom runtime feature flag engine and observability-first architecture.
+* **Architecture:** Decoupled control plane/data plane pattern.
+* **Key Tech:** TypeScript, Redis Streams, PostgreSQL, Dynamic Reconfiguration.
+* **Impact:** Enables zero-downtime reconfiguration and robust state management for distributed jobs.
 
-- [**QRUPI Protocol**](https://github.com/Kritagya123611/QRUPI-protocol)
-  A **post-quantum secure digital currency framework** using **lattice cryptography, FHE, and ZKPs**  
-  for **private and future-proof transactions**.  
+### 2. [FixFlow AI](https://github.com/Kritagya123611/FixFLow-AI)
+> **Autonomous DevOps Incident Response Agent**
+
+An AI-driven agent that automates the entire incident lifecycle. It detects failures, performs Root Cause Analysis (RCA), generates fixes, and validates via PRs.
+* **Core:** Autonomous agents for debugging and patch generation.
+* **Speed:** Reduces Mean Time To Resolution (MTTR) from hours to minutes.
+* **Integrations:** GitHub Actions, CI/CD pipelines, LLM-based reasoning.
+
+### 3. [SwiftSearch](https://github.com/Kritagya123611/SwiftSearch)
+> **High-Performance CLI Search Engine**
+
+A highly optimized file search tool built in **Go**. Leveraging concurrency primitives to outperform standard system tools.
+* **Performance:** Utilizes Goroutines and worker pools for parallel processing.
+* **Security:** Implements encrypted caching for secure, ultra-fast indexing.
+
+### 4. [CreatorVault](https://github.com/Kritagya123611/Creator-Vault)
+> **Web3 SaaS for Content Monetization**
+
+A decentralized alternative to Patreon/Gumroad.
+* **Web3 Stack:** Solana (Anchor), IPFS for decentralized storage, SPL Token integration.
+* **Features:** Direct wallet payments, token-gated content, and sovereign data ownership.
 
 ---
 
@@ -88,13 +107,21 @@ Currently diving deep into Rust, Kafka, and decentralized infrastructure
 
 ---
 
-## 📊 GitHub Stats  
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kritagya123611&theme=onedark&no-frame=true&margin-w=15" alt="Kritagya's Trophies" />
+  </a>
+</div>
 
-![Kritagya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kritagya123611&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritagya123611&layout=compact&theme=github_dark)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kritagya123611&theme=github-dark&hide_border=true)  
+<div align="center">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kritagya123611&theme=tokyonight" alt="Profile Details" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kritagya123611&theme=tokyonight" alt="Language Stats" />
+</div>
 
----
+[![Kritagya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kritagya123611&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📫 Let’s Connect!  
 
