@@ -42,7 +42,7 @@ A decentralized alternative to Patreon/Gumroad.
 
 ---
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 
 ### Languages & Markup  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -115,13 +115,13 @@ A decentralized alternative to Patreon/Gumroad.
 </div>
 
 
-## 📫 Let’s Connect!  
+##  Let’s Connect!  
 
-- 📩 Email: [jhakritagya45@gmail.com](mailto:jhakritagya45@gmail.com)  
-- 🧠 Twitter: [@kritagyajha1](https://x.com/kritagyajha1)  
-- 💼 LinkedIn: [linkedin.com/in/kritagya-jha-260945319](https://www.linkedin.com/in/kritagya-jha-260945319/)  
-- 🌐 Portfolio: https://terminal-portfolio-eta-inky.vercel.app
-- 🤝 Open for collaborations on **Web3, Rust, and distributed systems**  
+-  Email: [jhakritagya45@gmail.com](mailto:jhakritagya45@gmail.com)  
+-  Twitter: [@kritagyajha1](https://x.com/kritagyajha1)  
+-  LinkedIn: [linkedin.com/in/kritagya-jha-260945319](https://www.linkedin.com/in/kritagya-jha-260945319/)  
+-  Portfolio: https://terminal-portfolio-eta-inky.vercel.app
+-  Open for collaborations on **Web3, Rust, and distributed systems**  
 
 ---
 
