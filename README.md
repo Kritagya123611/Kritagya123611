@@ -114,6 +114,7 @@ A decentralized alternative to Patreon/Gumroad.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kritagya123611&theme=tokyonight" alt="Language Stats" />
 </div>
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kritagya123611&theme=tokyo-night&hide_border=true)
 
 ##  Let’s Connect!  
 
