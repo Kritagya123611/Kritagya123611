@@ -26,12 +26,12 @@ An AI-driven agent that automates the entire incident lifecycle. It detects fail
 * **Speed:** Reduces Mean Time To Resolution (MTTR) from hours to minutes.
 * **Integrations:** GitHub Actions, CI/CD pipelines, LLM-based reasoning.
 
-### 3. [SwiftSearch](https://github.com/Kritagya123611/SwiftSearch)
-> **High-Performance CLI Search Engine**
+### 4. [Aegis Defense Grid](https://github.com/Kritagya123611/Aegis-Defense-Grid)
+> **Autonomous Self-Healing Cybersecurity System**
 
-A highly optimized file search tool built in **Go**. Leveraging concurrency primitives to outperform standard system tools.
-* **Performance:** Utilizes Goroutines and worker pools for parallel processing.
-* **Security:** Implements encrypted caching for secure, ultra-fast indexing.
+A distributed active defense architecture built in **Go** and **Next.js**. It functions as a digital immune system that intercepts attacks and rewrites its own source code to patch vulnerabilities instantly.
+* **Active Deception:** High-concurrency reverse proxy that heuristicly filters and diverts malicious payloads to isolated shadow containers (honeypots).
+* **AI Remediation:** Integrates LLMs (Cohere) to analyze live exploits and execute zero-downtime hot-swaps of dynamically patched binaries.
 
 ### 4. [CreatorVault](https://github.com/Kritagya123611/Creator-Vault)
 > **Web3 SaaS for Content Monetization**
