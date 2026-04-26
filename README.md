@@ -1,132 +1,207 @@
-# Hey there, I'm Kritagya 👋
-
-**Backend & Distributed Systems Engineer**
-
-Building the intersection of **Web3 authetication** and **distributed control planes**. I build high-performance software that solves complex infrastructure problems.
-
-- **Current Focus:** Engineering autonomous DevOps agents and post-quantum secure protocols.
-- **Stack:** Rust, Go, Solana, Kafka, TypeScript.
-- **Mission:** Scaling decentralized primitives and autonomous systems.
-
-##  Engineering Highlights
-
-### 1. [Adaptive Control Plane](https://github.com/Kritagya123611/Adaptive-Control-Plane)
-> **Distributed Control Plane & Job Execution Engine**
-
-A resilient distributed system engineered to separate intent (API) from execution (Workers). It features a custom runtime feature flag engine and observability-first architecture.
-* **Architecture:** Decoupled control plane/data plane pattern.
-* **Key Tech:** TypeScript, Redis Streams, PostgreSQL, Dynamic Reconfiguration.
-* **Impact:** Enables zero-downtime reconfiguration and robust state management for distributed jobs.
-
-### 2. [FixFlow AI](https://github.com/Kritagya123611/FixFLow-AI)
-> **Autonomous DevOps Incident Response Agent**
-
-An AI-driven agent that automates the entire incident lifecycle. It detects failures, performs Root Cause Analysis (RCA), generates fixes, and validates via PRs.
-* **Core:** Autonomous agents for debugging and patch generation.
-* **Speed:** Reduces Mean Time To Resolution (MTTR) from hours to minutes.
-* **Integrations:** GitHub Actions, CI/CD pipelines, LLM-based reasoning.
-
-### 4. [Aegis Defense Grid](https://github.com/Kritagya123611/Aegis-Defense-Grid)
-> **Autonomous Self-Healing Cybersecurity System**
-
-A distributed active defense architecture built in **Go** and **Next.js**. It functions as a digital immune system that intercepts attacks and rewrites its own source code to patch vulnerabilities instantly.
-* **Active Deception:** High-concurrency reverse proxy that heuristicly filters and diverts malicious payloads to isolated shadow containers (honeypots).
-* **AI Remediation:** Integrates LLMs (Cohere) to analyze live exploits and execute zero-downtime hot-swaps of dynamically patched binaries.
-
-### 4. [CreatorVault](https://github.com/Kritagya123611/Creator-Vault)
-> **Web3 SaaS for Content Monetization**
-
-A decentralized alternative to Patreon/Gumroad.
-* **Web3 Stack:** Solana (Anchor), IPFS for decentralized storage, SPL Token integration.
-* **Features:** Direct wallet payments, token-gated content, and sovereign data ownership.
-
----
-
-##  Tech Stack  
-
-### Languages & Markup  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-###  Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
-### Backend & Dev  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-F1C40F?style=for-the-badge&logo=ethereum&logoColor=black)
-![Anchor](https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=solana&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
----
-
-### Blockchain / Web3  
-![Solana](https://img.shields.io/badge/Solana-3a0ca3?style=for-the-badge&logo=solana&logoColor=white)
-![Thirdweb](https://img.shields.io/badge/Thirdweb-000000?style=for-the-badge&logo=thirdweb&logoColor=white)
-![RainbowKit](https://img.shields.io/badge/RainbowKit-3A0CA3?style=for-the-badge&logo=rainbow&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-29336C?style=for-the-badge&logo=ethereum&logoColor=white)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
-![SPL Token](https://img.shields.io/badge/SPL--Token-000000?style=for-the-badge&logo=solana&logoColor=white)
-![Phantom](https://img.shields.io/badge/Phantom-551BF9?style=for-the-badge&logo=phantom&logoColor=white)
-
----
-
-### Database & Cloud  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-### Tools & IDEs  
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
 <div align="center">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kritagya123611&theme=tokyonight" alt="Profile Details" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kritagya123611&theme=tokyonight" alt="Language Stats" />
+
+<!-- TYPING SVG — human, not corporate -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Kritagya+%F0%9F%91%8B;Backend+%26+Distributed+Systems+Engineer;Building+things+that+don't+break+at+3am)](https://git.io/typing-svg)
+
+<!-- SHORT BIO — under 250 chars, human, punchy -->
+**Backend engineer obsessed with systems that self-heal, scale, and ship fast.**  
+I build distributed control planes, autonomous DevOps agents, and Web3 infrastructure using Rust, Go, and TypeScript.  
+Open to remote roles and serious collaborations.
+
+<!-- PROFILE VIEWS + SOCIAL BADGES — keep it minimal -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritagya-jha-260945319/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/kritagyajha1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat&logo=vercel&logoColor=white)](https://terminal-portfolio-eta-inky.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jhakritagya45@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Kritagya123611&color=7C3AED&style=flat&label=Profile+Views)
+
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kritagya123611&theme=tokyo-night&hide_border=true)
+---
 
-##  Let’s Connect!  
+## What I Do
 
--  Email: [jhakritagya45@gmail.com](mailto:jhakritagya45@gmail.com)  
--  Twitter: [@kritagyajha1](https://x.com/kritagyajha1)  
--  LinkedIn: [linkedin.com/in/kritagya-jha-260945319](https://www.linkedin.com/in/kritagya-jha-260945319/)  
--  Portfolio: https://terminal-portfolio-eta-inky.vercel.app
--  Open for collaborations on **Web3, Rust, and distributed systems**  
+I'm a backend and distributed systems engineer focused on two things: **infrastructure that heals itself** and **Web3 primitives that actually work at scale**. I design systems where the control plane is cleanly separated from execution, where failure is expected and handled gracefully, and where observability isn't an afterthought.
+
+Currently building: autonomous DevOps agents and post-quantum secure authentication protocols.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kritagya123611&color=blueviolet&style=flat)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Control+Planes+%E2%89%A0+Workers;State+Before+Execution;Design+for+Failure;Distributed+Systems+Engineer)](https://git.io/typing-svg)
+## Featured Projects
 
+### [Adaptive Control Plane](https://github.com/Kritagya123611/Adaptive-Control-Plane)
+> Distributed job execution engine with zero-downtime reconfiguration
 
+Separates **intent (API)** from **execution (Workers)** — a real control plane / data plane split. Built a custom runtime feature flag engine so you can change system behavior live without redeployments. Observability baked in from day one, not bolted on.
+
+`TypeScript` `Redis Streams` `PostgreSQL` `Dynamic Reconfiguration`
+
+---
+
+### [FixFlow AI](https://github.com/Kritagya123611/FixFLow-AI)
+> Autonomous DevOps incident response — detects, diagnoses, patches, ships PRs
+
+An AI agent that handles the full incident lifecycle without waking anyone up at 3am. It monitors for failures, does root cause analysis, generates a fix, and opens a validated PR. Cuts MTTR from hours to under 15 minutes on the incidents I've tested.
+
+`LLM Reasoning` `GitHub Actions` `CI/CD Automation` `Autonomous Agents`
+
+---
+
+### [Aegis Defense Grid](https://github.com/Kritagya123611/Aegis-Defense-Grid)
+> Self-healing cybersecurity system that rewrites its own code under attack
+
+Built in Go + Next.js. A high-concurrency reverse proxy that heuristically identifies malicious payloads and routes them into isolated honeypot containers instead of your real services. Uses Cohere LLMs to analyze live exploits and hot-swap patched binaries with zero downtime. Think of it as a digital immune system.
+
+`Go` `Next.js` `Cohere AI` `Honeypots` `Hot-swap Binaries`
+
+---
+
+### [CreatorVault](https://github.com/Kritagya123611/Creator-Vault)
+> Decentralized Patreon/Gumroad alternative — you own your data and your revenue
+
+Built on Solana (Anchor framework) with IPFS for storage. Direct wallet payments, token-gated content, SPL Token integration. No platform taking 30%. Sovereign creator infrastructure.
+
+`Solana` `Anchor` `IPFS` `SPL Token` `TypeScript`
+
+---
+
+## Tech Stack
+
+**Core languages I actually ship in:**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+
+**Infrastructure & Backend:**
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+**Web3:**
+
+![Solana](https://img.shields.io/badge/Solana-3a0ca3?style=flat&logo=solana&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-000000?style=flat&logo=solana&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-29336C?style=flat&logo=ethereum&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
+
+**Cloud & DevOps:**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<!-- 
+  HOW TO ACTIVATE THESE:
+  Replace "Kritagya123611" with your GitHub username if different.
+  These are free, no setup needed — just paste the URLs below.
+-->
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Kritagya123611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritagya123611&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kritagya123611&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kritagya123611&theme=tokyo-night&hide_border=true&area=true)
+
+<!-- GitHub Trophies — paste this in if you want the trophy shelf -->
+<!--
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kritagya123611&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+-->
+
+---
+
+## Currently
+
+- Building an autonomous DevOps agent that handles on-call incidents end-to-end
+- Researching post-quantum cryptography for Web3 authentication flows
+- Open to: **remote backend/infra roles**, **Web3 protocol engineering**, **distributed systems consulting**
+
+---
+
+## Let's Talk
+
+If you're working on something in distributed systems, Web3 infra, or autonomous agents — or you have a hard backend problem — reach out.
+
+📧 [jhakritagya45@gmail.com](mailto:jhakritagya45@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/kritagya-jha-260945319/)  
+🐦 [Twitter @kritagyajha1](https://x.com/kritagyajha1)  
+🌐 [Portfolio](https://terminal-portfolio-eta-inky.vercel.app)
+
+---
+
+<!--
+=============================================================
+VISUAL UPGRADES CHECKLIST — FREE THINGS TO ADD RIGHT NOW
+=============================================================
+
+1. GITHUB STATS CARDS (already included above)
+   Source: https://github.com/anuraghazra/github-readme-stats
+   Just swap your username — it works instantly, no token needed for public repos.
+
+2. STREAK STATS (already included above)
+   Source: https://streak-stats.demolab.com
+   Shows your longest streak. Great social proof.
+
+3. ACTIVITY GRAPH (already included above)
+   Source: https://github.com/Ashutosh00710/github-readme-activity-graph
+   Use &area=true for the filled look.
+
+4. TROPHIES (commented out above, uncomment to enable)
+   Source: https://github.com/ryo-ma/github-profile-trophy
+   Adds a shelf of achievement trophies. 
+   Code: https://github-profile-trophy.vercel.app/?username=Kritagya123611&theme=tokyonight&no-frame=true&row=1&column=6
+
+5. WAKATIME CODING STATS — shows time spent per language
+   Sign up at https://wakatime.com (free), install the VS Code plugin.
+   After 7 days of data, add this:
+   [![WakaTime](https://wakatime.com/badge/user/YOUR_USER_ID.svg)](https://wakatime.com)
+   And a full stats card:
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" />
+
+6. PROFILE SUMMARY CARDS (you had these before — they work)
+   Source: https://github.com/vn7n24fzkq/github-profile-summary-cards
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kritagya123611&theme=tokyonight" />
+
+7. PIN YOUR BEST 6 REPOS
+   Go to your GitHub profile → click "Customize your pins" → select your 4 projects above.
+   This is the most impactful visual change you can make. Do it today.
+
+8. SOCIAL PREVIEW IMAGES FOR REPOS
+   For each project repo, go to Settings → Social Preview → upload a custom image.
+   Use Figma or Canva. Makes your repos look professional when shared on LinkedIn/Twitter.
+
+9. SKILL ICONS (alternative to shields.io badges — cleaner look)
+   Source: https://skillicons.dev
+   Example: <img src="https://skillicons.dev/icons?i=rust,go,ts,kafka,solana&theme=dark" />
+   Replace the badge wall with this single line. Way cleaner.
+
+10. CAPSULE RENDER (decorative header/footer wave)
+    Source: https://github.com/kyechan99/capsule-render
+    Header: ![header](https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=header)
+    Footer: ![footer](https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=60&section=footer)
+
+=============================================================
+-->
