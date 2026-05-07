@@ -29,7 +29,7 @@ Currently building: autonomous DevOps agents and post-quantum secure authenticat
 
 ## Featured Projects
 
-### [EvolveOS](https://github.com/yourusername/EvolveOS)
+### [EvolveOS](https://github.com/Kritagya123611/EvolveOS)
 > A sovereign world for AI agents — they live here, breed here, and get smarter here. You only see the results.
 
 Not an agent framework. Not a prompt runner. A persistent AI civilization where agents accumulate real memory, execute syscalls on the host OS, breed successor generations autonomously, and transfer knowledge to junior agents through a live mentorship pipeline. The architecture is the safety — work crosses in, intelligence crosses out, your systems are never touched.
