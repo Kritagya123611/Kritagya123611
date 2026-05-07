@@ -29,14 +29,12 @@ Currently building: autonomous DevOps agents and post-quantum secure authenticat
 
 ## Featured Projects
 
-### [Adaptive Control Plane](https://github.com/Kritagya123611/Adaptive-Control-Plane)
-> Distributed job execution engine with zero-downtime reconfiguration
+### [EvolveOS](https://github.com/yourusername/EvolveOS)
+> A sovereign world for AI agents — they live here, breed here, and get smarter here. You only see the results.
 
-Separates **intent (API)** from **execution (Workers)** — a real control plane / data plane split. Built a custom runtime feature flag engine so you can change system behavior live without redeployments. Observability baked in from day one, not bolted on.
+Not an agent framework. Not a prompt runner. A persistent AI civilization where agents accumulate real memory, execute syscalls on the host OS, breed successor generations autonomously, and transfer knowledge to junior agents through a live mentorship pipeline. The architecture is the safety — work crosses in, intelligence crosses out, your systems are never touched.
 
-`TypeScript` `Redis Streams` `PostgreSQL` `Dynamic Reconfiguration`
-
----
+`Autonomous Agents` `RAG + pgvector` `Gemini Function Calling` `Genesis Protocol` `BullMQ` `Multi-Process Architecture`
 
 ### [FixFlow AI](https://github.com/Kritagya123611/FixFLow-AI)
 > Autonomous DevOps incident response — detects, diagnoses, patches, ships PRs
@@ -53,6 +51,15 @@ An AI agent that handles the full incident lifecycle without waking anyone up at
 Built in Go + Next.js. A high-concurrency reverse proxy that heuristically identifies malicious payloads and routes them into isolated honeypot containers instead of your real services. Uses Cohere LLMs to analyze live exploits and hot-swap patched binaries with zero downtime. Think of it as a digital immune system.
 
 `Go` `Next.js` `Cohere AI` `Honeypots` `Hot-swap Binaries`
+
+---
+
+### [Adaptive Control Plane](https://github.com/Kritagya123611/Adaptive-Control-Plane)
+> Distributed job execution engine with zero-downtime reconfiguration
+
+Separates **intent (API)** from **execution (Workers)** — a real control plane / data plane split. Built a custom runtime feature flag engine so you can change system behavior live without redeployments. Observability baked in from day one, not bolted on.
+
+`TypeScript` `Redis Streams` `PostgreSQL` `Dynamic Reconfiguration`
 
 ---
 
