@@ -122,7 +122,7 @@ Built on Solana (Anchor framework) with IPFS for storage. Direct wallet payments
 
 </div>
 
-<div align="center">
+<div align="center"> 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kritagya123611&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
